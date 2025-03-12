@@ -44,6 +44,7 @@ Question 4 Classification Report for Survivability Prediction Model (RandomFores
 | **Weighted Avg** | 0.87 | 0.88 | 0.86 | 886 |
 
 **ROC AUC Score:** 0.9115
+
 My overpruning of the data led to a smaller dataset than I had initially wanted, further changes to how I engineered the features and cleaned the data could be done so there are more samples. the results show the issue of an imbalanced dataset, because the number of survivable incidents is much greater. I would likely downsample on the survivable cases, I dont think upsampling on the small number of nonsurvivable cases would make truly good predictions (but thats my personal opinion)
 
 - **Visualization:**  
