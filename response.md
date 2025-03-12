@@ -55,8 +55,7 @@ My overpruning of the data led to a smaller dataset than I had initially wanted,
 What ICAO event categories are most common at Canadian airports? Is there any trend or pattern evident
 in these Canadian events?
 
-- **Findings:**  
-  - Most frequent ICAO event codes: A, B, C...
+- **Answer**
 
 ## Most Common ICAO Event Categories
 The most common ICAO event categories at Canadian airports are:
