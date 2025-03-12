@@ -37,8 +37,8 @@ Question 4 Classification Report for Survivability Prediction Model (RandomFores
 
 | Class | Precision | Recall | F1-score | Support |
 |-------|----------|--------|----------|---------|
-| 0.0   | 0.78     | 0.35   | 0.48     | 141     |
-| 1.0   | 0.89     | 0.98   | 0.93     | 745     |
+| NS  | 0.78     | 0.35   | 0.48     | 141     |
+| Surv   | 0.89     | 0.98   | 0.93     | 745     |
 | **Accuracy** | NA | NA | 0.88 | 886 |
 | **Macro Avg** | 0.83 | 0.66 | 0.71 | 886 |
 | **Weighted Avg** | 0.87 | 0.88 | 0.86 | 886 |
