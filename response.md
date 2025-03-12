@@ -1,5 +1,8 @@
 # DATA SCIENCE Take Home Assignment: Data Analysis with Python
 
+## Author: Nathan Robertson
+## Date: 12/03/2025
+
 ## Question 3: Data Completeness
 - **Question:**
 Describe in detail how you would leverage the Summary field in the Occurrence data to predict future
